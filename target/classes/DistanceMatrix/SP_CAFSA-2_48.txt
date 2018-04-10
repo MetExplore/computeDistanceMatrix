@@ -1,0 +1,19 @@
+Urate	0	5	6	3	6	5	5	6	1	4	6	6	5	5	5	5	4	6	6
+4-acetamidobutanoate	5	0	5	4	6	5	4	6	4	5	5	6	6	5	4	6	5	8	6
+N-acetyl-D-glucosamine	6	5	0	5	6	4	3	5	5	4	4	5	5	4	3	5	4	8	5
+L-threonate	3	4	5	0	5	4	4	5	2	3	5	5	4	4	4	4	3	6	5
+Folate	6	6	6	5	0	6	6	6	5	5	6	6	5	5	5	6	6	7	5
+butyryl carnitine	5	5	4	4	6	0	2	2	4	4	4	2	6	4	3	2	2	7	5
+O-acetylcarnitine	5	4	3	4	6	2	0	2	4	3	3	2	5	3	2	2	2	7	4
+isovalvaleryl carnitine	6	6	5	5	6	2	2	0	5	4	4	2	7	4	4	2	2	7	5
+Xanthine	1	4	5	2	5	4	4	5	0	3	5	5	4	4	4	4	3	6	5
+adipic acid	4	5	4	3	5	4	3	4	3	0	4	4	5	4	3	4	2	6	4
+cis-aconitate(3-)	6	5	4	5	6	4	3	4	5	4	0	4	5	3	3	4	4	8	5
+tiglyl carnitine	6	6	5	5	6	2	2	2	5	4	4	0	6	4	4	2	2	6	5
+2-deoxy-D-ribose	5	6	5	4	5	6	5	7	4	5	5	6	0	5	4	6	5	7	4
+(S)-malate(2-)	5	5	4	4	5	4	3	4	4	4	3	4	5	0	3	4	4	6	3
+N-acetyl-L-alanine	5	4	3	4	5	3	2	4	4	3	3	4	4	3	0	4	3	6	4
+propionyl-carnitine	5	6	5	4	6	2	2	2	4	4	4	2	6	4	4	0	2	7	5
+adipoyl carnitine	4	5	4	3	6	2	2	2	3	2	4	2	5	4	3	2	0	7	5
+creatinine	6	8	8	6	7	7	7	7	6	6	8	6	7	6	6	7	7	0	7
+D-glycerate	6	6	5	5	5	5	4	5	5	4	5	5	4	3	4	5	5	7	0

@@ -1,0 +1,23 @@
+5-Methylthioadenosine	0	4	5	4	4	5	4	4	3	5	4	6	5	3	5	5	4	5	4	4	5	5	5
+Urate	4	0	5	5	5	6	4	5	3	6	5	6	5	4	6	6	5	5	4	5	6	5	6
+L-Carnitine	5	5	0	4	5	4	5	3	4	5	5	1	3	3	3	1	6	3	4	3	6	1	4
+phosphatidylserine	4	5	4	0	5	5	3	4	4	4	4	5	3	3	5	5	5	3	3	3	5	5	3
+4-acetamidobutanoate	4	5	5	5	0	5	6	4	4	6	5	6	5	5	5	6	6	5	5	4	7	6	6
+N-acetyl-D-glucosamine	5	6	4	5	5	0	5	3	5	6	4	5	2	4	4	5	5	4	5	3	6	5	5
+indole-3-acetate	4	4	5	3	6	5	0	4	4	5	5	5	4	4	5	5	5	4	3	4	6	6	5
+N-Acetylmethionine	4	5	3	4	4	3	4	0	4	5	5	4	3	3	3	4	4	3	4	2	5	4	4
+L-threonate	3	3	4	4	4	5	4	4	0	5	5	5	4	3	5	5	4	4	3	4	6	4	5
+Folate	5	6	5	4	6	6	5	5	5	0	5	6	5	5	6	6	5	5	4	5	7	6	5
+D-glucitol	4	5	5	4	5	4	5	5	5	5	0	6	4	4	6	6	5	4	4	5	6	6	4
+isovalvaleryl carnitine	6	6	1	5	6	5	5	4	5	6	6	0	4	4	4	2	7	4	4	4	7	2	5
+N-acetylneuraminate	5	5	3	3	5	2	4	3	4	5	4	4	0	4	4	4	5	2	4	3	6	4	3
+adipic acid	3	4	3	3	5	4	4	3	3	5	4	4	4	0	4	4	5	4	3	3	4	4	4
+cis-aconitate(3-)	5	6	3	5	5	4	5	3	5	6	6	4	4	4	0	4	5	3	5	3	6	4	5
+tiglyl carnitine	5	6	1	5	6	5	5	4	5	6	6	2	4	4	4	0	6	4	5	4	7	2	5
+2-deoxy-D-ribose	4	5	6	5	6	5	5	4	4	5	5	7	5	5	5	6	0	5	5	4	5	6	4
+(S)-malate(2-)	5	5	3	3	5	4	4	3	4	5	4	4	2	4	3	4	5	0	4	3	6	4	3
+glycocholate	4	4	4	3	5	5	3	4	3	4	4	4	4	3	5	5	5	4	0	3	5	4	4
+N-acetyl-L-alanine	4	5	3	3	4	3	4	2	4	5	5	4	3	3	3	4	4	3	3	0	5	4	4
+D-ribitol	5	6	6	5	7	6	6	5	6	7	6	7	6	4	6	7	5	6	5	5	0	6	5
+propionyl-carnitine	5	5	1	5	6	5	6	4	4	6	6	2	4	4	4	2	6	4	4	4	6	0	5
+D-glycerate	5	6	4	3	6	5	5	4	5	5	4	5	3	4	5	5	4	3	4	4	5	5	0
