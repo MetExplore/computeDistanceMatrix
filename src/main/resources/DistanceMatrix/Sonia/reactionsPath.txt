@@ -1,0 +1,2256 @@
+{
+  "M_5oxproM_Lcystin": [
+    "R_r0568",
+    "R_GLUCYS",
+    "R_CYSGLTH"
+  ],
+  "M_phe_LM_tyr_L": [
+    "R_r0399"
+  ],
+  "M_5htrpM_citr_L": [
+    "R_ORNTArm",
+    "R_r0403",
+    "R_SFGTH",
+    "R_FKYNH",
+    "R_TRPO2",
+    "R_r0074",
+    "R_r0130",
+    "R_FALDH",
+    "R_OCBTm"
+  ],
+  "M_56dthmM_5htrp": [
+    "R_TMDPP",
+    "R_r0403",
+    "R_NTD5m",
+    "R_FKYNH",
+    "R_TRPO2",
+    "R_TMDS",
+    "R_MTHFCm",
+    "R_MTHFDm",
+    "R_r0330",
+    "R_FTHFL"
+  ],
+  "M_4aabutnM_crtsl": [
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_RE2768C",
+    "R_NABTNO",
+    "R_ACSm"
+  ],
+  "M_5htrpM_acrn": [
+    "R_RE2642C",
+    "R_r0403",
+    "R_LFORKYNHYD",
+    "R_CSNATp",
+    "R_TRPO2",
+    "R_RE2031M"
+  ],
+  "M_5htrpM_crtsl": [
+    "R_P45011B12m",
+    "R_r1180",
+    "R_TRPO2",
+    "R_HSD3B13r",
+    "R_P45011A1m",
+    "R_P45017A1r",
+    "R_RE2642C",
+    "R_r0403",
+    "R_LFORKYNHYD",
+    "R_P45021A2r",
+    "R_PTRCAT1",
+    "R_LNLCCPT2",
+    "R_RE2031M",
+    "R_r1168"
+  ],
+  "M_LkynrM_glcn": [
+    "R_G6PDH1rer",
+    "R_UMPK3n",
+    "R_PGMT",
+    "R_UGLT",
+    "R_PDHm",
+    "R_HAS2",
+    "R_ACGAMPM",
+    "R_RE0124C",
+    "R_AGTim",
+    "R_HKYNH",
+    "R_PGLc",
+    "R_ACGAM6PSi",
+    "R_GALU",
+    "R_UAGDP",
+    "R_KYN3OX"
+  ],
+  "M_HC02149M_acgam": [
+    "R_AGDC",
+    "R_ACGAMK",
+    "R_PTRCAT1",
+    "R_OBDHc",
+    "R_r1396",
+    "R_ACSm"
+  ],
+  "M_LkynrM_acgam": [
+    "R_ACNAM9PL",
+    "R_ACNMLr",
+    "R_AGTim",
+    "R_HKYNH",
+    "R_ACGAM2E",
+    "R_ACNAMPH",
+    "R_RE2954C",
+    "R_KYN3OX"
+  ],
+  "M_5htrpM_Lcystin": [
+    "R_r0403",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_CYSGLTH",
+    "R_r0193",
+    "R_TRPO2"
+  ],
+  "M_met_LM_tyr_L": [
+    "R_RE2640C",
+    "R_2AMACHYD",
+    "R_PDHm",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3",
+    "R_RE2030M"
+  ],
+  "M_HC02149M_asn_L": [
+    "R_PTRCAT1",
+    "R_OBDHc",
+    "R_r1396",
+    "R_RE2644C",
+    "R_RE2032M"
+  ],
+  "M_56dthmM_acrn": [
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_D3AIBTm",
+    "R_CSNATp",
+    "R_FAOXC14C12x",
+    "R_RE1836C",
+    "R_DHPM2"
+  ],
+  "M_4aabutnM_56dthm": [
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_RE2649M",
+    "R_D3AIBTm",
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_NABTNO",
+    "R_DHPM2",
+    "R_ACSm"
+  ],
+  "M_LcystinM_trp_L": [
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_CYSGLTH",
+    "R_r0193",
+    "R_TRPO2"
+  ],
+  "M_HC01007M_Lkynr": [
+    "R_r0634",
+    "R_AGTim",
+    "R_HKYNH",
+    "R_ACACT4p",
+    "R_r0637",
+    "R_PDHm",
+    "R_KYN3OX"
+  ],
+  "M_34hplM_citr_L": [
+    "R_4HBZCOAFm",
+    "R_COUCOAFm",
+    "R_CBPSam",
+    "R_MGCHrm",
+    "R_MCCCrm",
+    "R_r0463",
+    "R_OCBTm",
+    "R_T4HCINNMFM"
+  ],
+  "M_crtslM_glyc_R": [
+    "R_OAADC",
+    "R_r1109",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_ACITL",
+    "R_RE2768C"
+  ],
+  "M_LkynrM_glyc_R": [
+    "R_AGTim",
+    "R_HKYNH",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_KYN3OX"
+  ],
+  "M_HC01007M_gchola": [
+    "R_RE1834M",
+    "R_r0634",
+    "R_BAAT1x",
+    "R_r0636"
+  ],
+  "M_4aabutnM_5oxpro": [
+    "R_ORNTArm",
+    "R_ORNDC",
+    "R_APRTO2",
+    "R_r0074",
+    "R_OPAHir",
+    "R_PTRCAT1",
+    "R_NABTNO"
+  ],
+  "M_LcystinM_acrn": [
+    "R_CYSLYSL",
+    "R_CSNATp",
+    "R_PDHm"
+  ],
+  "M_CE1554M_HC02149": [
+    "R_PTRCAT1",
+    "R_OBDHc",
+    "R_r1396",
+    "R_RE2031M"
+  ],
+  "M_gcholaM_glyc_R": [
+    "R_GHMT2r",
+    "R_r0060",
+    "R_r0629",
+    "R_SPTix",
+    "R_HPYRRy"
+  ],
+  "M_5oxproM_glu_L": [
+    "R_OPAHir"
+  ],
+  "M_CE1554M_crtsl": [
+    "R_RE2642C",
+    "R_RE2768C"
+  ],
+  "M_LcystinM_tchola": [
+    "R_RE1834M",
+    "R_CYSLYSL",
+    "R_BAAT2x",
+    "R_PDHm",
+    "R_PTRCAT1"
+  ],
+  "M_citr_LM_tchola": [
+    "R_r0630",
+    "R_r0488",
+    "R_CBPSam",
+    "R_r0629",
+    "R_MGCHrm",
+    "R_MCCCrm",
+    "R_OCBTm"
+  ],
+  "M_LkynrM_glu_L": [
+    "R_GGLUCT",
+    "R_HKYNH",
+    "R_GTMLTe",
+    "R_OPAHir",
+    "R_KYN3OX"
+  ],
+  "M_CE1554M_glcn": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_GNDer",
+    "R_RPEc",
+    "R_PDHm",
+    "R_r0055",
+    "R_TKT1",
+    "R_RE2031M"
+  ],
+  "M_4aabutnM_tchola": [
+    "R_r0630",
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_r0573",
+    "R_NABTNO",
+    "R_ACSm"
+  ],
+  "M_LkynrM_asn_L": [
+    "R_PCm",
+    "R_HKYNH",
+    "R_ALATA_L",
+    "R_ASNS1",
+    "R_ASPTAm",
+    "R_KYN3OX"
+  ],
+  "M_HC02149M_Lkynr": [
+    "R_AGTim",
+    "R_HKYNH",
+    "R_CSNATp",
+    "R_CSNATer",
+    "R_PDHm",
+    "R_r1396",
+    "R_KYN3OX"
+  ],
+  "M_crtslM_met_L": [
+    "R_RE2640C",
+    "R_RE2030M",
+    "R_RE2768C"
+  ],
+  "M_LkynrM_citr_L": [
+    "R_r0641",
+    "R_ORNTArm",
+    "R_AGTim",
+    "R_HKYNH",
+    "R_r0074",
+    "R_LTC4CP",
+    "R_OCBTm",
+    "R_KYN3OX"
+  ],
+  "M_LcystinM_tyr_L": [
+    "R_3HLYTCL",
+    "R_RE1918C",
+    "R_CSNATm",
+    "R_MESCOALm",
+    "R_ALDD2y",
+    "R_CYSGLTH",
+    "R_r0193",
+    "R_TYR3MO2",
+    "R_RE1925C",
+    "R_RE1923C",
+    "R_ACSm",
+    "R_MECOAS1m"
+  ],
+  "M_glcnM_tchola": [
+    "R_RE1834M",
+    "R_RPI",
+    "R_RE0124C",
+    "R_GNDer",
+    "R_BAAT2x",
+    "R_r0051",
+    "R_r0591",
+    "R_PRPPS",
+    "R_r0033"
+  ],
+  "M_LkynrM_acrn": [
+    "R_HKYNH",
+    "R_D3AIBTm",
+    "R_CSNATp",
+    "R_PDHm",
+    "R_KYN3OX"
+  ],
+  "M_CE1554M_acrn": [
+    "R_CSNATm",
+    "R_RE2031M"
+  ],
+  "M_crtslM_tyr_L": [
+    "R_P45011B12m",
+    "R_r1180",
+    "R_HSD3B13r",
+    "R_PDHm",
+    "R_IDHPOXOX3",
+    "R_P45011A1m",
+    "R_P45017A1r",
+    "R_2AMACHYD",
+    "R_P45021A2r",
+    "R_PTRCAT1",
+    "R_LNLCCPT2",
+    "R_IDHPOXOXb",
+    "R_r1168"
+  ],
+  "M_5oxproM_gchola": [
+    "R_GGLUCT",
+    "R_GTMLTe",
+    "R_r0629",
+    "R_GTHS"
+  ],
+  "M_ind3acM_trp_L": [
+    "R_TRYPTAOX",
+    "R_LTDCL",
+    "R_ALDD20x"
+  ],
+  "M_LcystinM_met_L": [
+    "R_RE2640C",
+    "R_CYSLYSL",
+    "R_PDHm",
+    "R_RE2030M"
+  ],
+  "M_acgamM_glyc_R": [
+    "R_ACNAM9PL",
+    "R_GLYCK2",
+    "R_ACNMLr",
+    "R_ENO",
+    "R_ACGAM2E",
+    "R_ACNAMPH"
+  ],
+  "M_CE1554M_Lkynr": [
+    "R_RE2642C",
+    "R_HKYNH",
+    "R_KYN3OX"
+  ],
+  "M_HC02149M_gchola": [
+    "R_r0629",
+    "R_OBDHc",
+    "R_r1396",
+    "R_r0573"
+  ],
+  "M_LcystinM_glcn": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_GNDer",
+    "R_CYSGLTH",
+    "R_RPEc",
+    "R_r0193",
+    "R_r0055",
+    "R_TKT1"
+  ],
+  "M_LcystinM_acgam": [
+    "R_ACNAM9PL",
+    "R_ACNMLr",
+    "R_CYSLYSL",
+    "R_ACGAM2E",
+    "R_ACNAMPH",
+    "R_RE2954C"
+  ],
+  "M_34hplM_met_L": [
+    "R_RE2640C",
+    "R_4HBZCOAFm",
+    "R_COUCOAFm",
+    "R_RE2030M",
+    "R_T4HCINNMFM"
+  ],
+  "M_5oxproM_acgam": [
+    "R_ACNAM9PL",
+    "R_ACNMLr",
+    "R_r0568",
+    "R_GLUCYS",
+    "R_AMANK",
+    "R_r0193",
+    "R_ACGAM2E",
+    "R_ACNAMPH"
+  ],
+  "M_5htrpM_Lkynr": [
+    "R_r0403",
+    "R_FKYNH",
+    "R_TRPO2"
+  ],
+  "M_crtslM_trp_L": [
+    "R_P45011B12m",
+    "R_r1180",
+    "R_TRPO2",
+    "R_HSD3B13r",
+    "R_P45011A1m",
+    "R_P45017A1r",
+    "R_RE2642C",
+    "R_LFORKYNHYD",
+    "R_P45021A2r",
+    "R_PTRCAT1",
+    "R_LNLCCPT2",
+    "R_RE2031M",
+    "R_r1168"
+  ],
+  "M_56dthmM_tchola": [
+    "R_RE1834M",
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_D3AIBTm",
+    "R_BAAT2x",
+    "R_RE1836C",
+    "R_DHPM2"
+  ],
+  "M_acgamM_acrn": [
+    "R_AGDC",
+    "R_CSNATp",
+    "R_ACGAMK",
+    "R_ACSm"
+  ],
+  "M_acrnM_crtsl": [
+    "R_CSNATp",
+    "R_RE2768C",
+    "R_ACSm"
+  ],
+  "M_HC02149M_glcn": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_RPEc",
+    "R_CSNATp",
+    "R_CSNATer",
+    "R_PDHm",
+    "R_r1396",
+    "R_r0055",
+    "R_TKT1",
+    "R_GND"
+  ],
+  "M_LcystinM_glu_L": [
+    "R_r0568",
+    "R_GLUCYS",
+    "R_CYSGLTH"
+  ],
+  "M_HC01007M_glcn": [
+    "R_RPI",
+    "R_RE0124C",
+    "R_GNDer",
+    "R_r0637",
+    "R_r0051",
+    "R_r0591",
+    "R_PRPPS",
+    "R_r0033",
+    "R_FACOAL80i"
+  ],
+  "M_asn_LM_glyc_R": [
+    "R_OAADC",
+    "R_ASNNm",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_ASPTAm"
+  ],
+  "M_5oxproM_tchola": [
+    "R_r0630",
+    "R_GGLUCT",
+    "R_BAAT1x",
+    "R_GTMLTe",
+    "R_r0629",
+    "R_GTHS"
+  ],
+  "M_citr_LM_gchola": [
+    "R_r0641",
+    "R_ORNTArm",
+    "R_r0629",
+    "R_r0074",
+    "R_LTC4CP",
+    "R_OCBTm"
+  ],
+  "M_HC02149M_Lcystin": [
+    "R_CYSLYSL",
+    "R_CSNATp",
+    "R_CSNATer",
+    "R_PDHm",
+    "R_r1396"
+  ],
+  "M_LcystinM_gchola": [
+    "R_BAAT1x",
+    "R_AGTim",
+    "R_CYSLYSL",
+    "R_ALATA_L"
+  ],
+  "M_5htrpM_glyc_R": [
+    "R_r0403",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_SPTix",
+    "R_HPYRRy"
+  ],
+  "M_4aabutnM_gchola": [
+    "R_APRTO2",
+    "R_r0629",
+    "R_PTRCAT1",
+    "R_r0573",
+    "R_NABTNO",
+    "R_ACSm"
+  ],
+  "M_HC02149M_gln_L": [
+    "R_LEUTAm",
+    "R_RE2034C",
+    "R_r1154",
+    "R_r1397",
+    "R_GLNS"
+  ],
+  "M_34hplM_tyr_L": [
+    "R_TYRTAm",
+    "R_34HPLFM"
+  ],
+  "M_CE1554M_glyc_R": [
+    "R_RE2642C",
+    "R_AGTim",
+    "R_SPTix",
+    "R_HPYRRy"
+  ],
+  "M_56dthmM_HC02149": [
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_D3AIBTm",
+    "R_r1396",
+    "R_DHPM2"
+  ],
+  "M_LkynrM_gln_L": [
+    "R_GGLUCT",
+    "R_HKYNH",
+    "R_GTMLTe",
+    "R_OPAHir",
+    "R_GLNS",
+    "R_KYN3OX"
+  ],
+  "M_citr_LM_met_L": [
+    "R_RE2640C",
+    "R_FUMm",
+    "R_ARGSL",
+    "R_PDHm",
+    "R_ARGSS",
+    "R_ME2m",
+    "R_RE2030M"
+  ],
+  "M_LkynrM_trp_L": [
+    "R_FKYNH",
+    "R_TRPO2"
+  ],
+  "M_34hplM_CE1554": [
+    "R_4HBZCOAFm",
+    "R_COUCOAFm",
+    "R_RE2031M",
+    "R_T4HCINNMFM"
+  ],
+  "M_5oxproM_CE1554": [
+    "R_RE2642C",
+    "R_GGLUCT",
+    "R_GTMLTe"
+  ],
+  "M_glcnM_glyc_R": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_GNDer",
+    "R_RPEc",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_r0055",
+    "R_TKT1"
+  ],
+  "M_LcystinM_asn_L": [
+    "R_PCm",
+    "R_CYSLYSL",
+    "R_ASNS1",
+    "R_ASPTAm"
+  ],
+  "M_5oxproM_Lkynr": [
+    "R_GGLUCT",
+    "R_HKYNH",
+    "R_GTMLTe",
+    "R_KYN3OX"
+  ],
+  "M_acrnM_tyr_L": [
+    "R_2AMACHYD",
+    "R_CSNATp",
+    "R_PDHm",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3"
+  ],
+  "M_CE1554M_gchola": [
+    "R_RE2642C",
+    "R_AGTim",
+    "R_r0629"
+  ],
+  "M_CE1554M_citr_L": [
+    "R_FUMm",
+    "R_ARGSL",
+    "R_PDHm",
+    "R_ARGSS",
+    "R_ME2m",
+    "R_RE2031M"
+  ],
+  "M_4aabutnM_asn_L": [
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_RE2644C",
+    "R_NABTNO",
+    "R_RE2032M"
+  ],
+  "M_CE1554M_HC01007": [
+    "R_r0637",
+    "R_PTRCAT1",
+    "R_RE2031M",
+    "R_FACOAL80i"
+  ],
+  "M_56dthmM_crtsl": [
+    "R_RE2640C",
+    "R_TMDPP",
+    "R_GNMT",
+    "R_NTD5m",
+    "R_TMDS",
+    "R_METAT",
+    "R_RE2030M",
+    "R_r0330",
+    "R_RE2768C",
+    "R_SARDHm"
+  ],
+  "M_acgamM_glcn": [
+    "R_RPI",
+    "R_RE0124C",
+    "R_GNDer",
+    "R_UMPK3n",
+    "R_GLCAASE9ly",
+    "R_ORPT",
+    "R_OMPDC",
+    "R_PRPPS",
+    "R_HAS1",
+    "R_UGT1A10r"
+  ],
+  "M_5htrpM_asn_L": [
+    "R_PCm",
+    "R_r0403",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_ASNS1",
+    "R_ASPTAm"
+  ],
+  "M_4aabutnM_5htrp": [
+    "R_RE2642C",
+    "R_r0403",
+    "R_LFORKYNHYD",
+    "R_APRTO2",
+    "R_TRPO2",
+    "R_PTRCAT1",
+    "R_RE2031M",
+    "R_NABTNO"
+  ],
+  "M_acrnM_gchola": [
+    "R_RE1834M",
+    "R_CSNATm",
+    "R_BAAT1x",
+    "R_PTRCAT1"
+  ],
+  "M_4aabutnM_gln_L": [
+    "R_ORNTArm",
+    "R_GLUNm",
+    "R_ORNDC",
+    "R_APRTO2",
+    "R_r0074",
+    "R_PTRCAT1",
+    "R_NABTNO"
+  ],
+  "M_acrnM_tchola": [
+    "R_r0630",
+    "R_CSNATp",
+    "R_r0629",
+    "R_FAOXC14C12x"
+  ],
+  "M_5oxproM_HC02149": [
+    "R_ILETA",
+    "R_OPAHir",
+    "R_RE2034C",
+    "R_OBDHc",
+    "R_r1396"
+  ],
+  "M_4aabutnM_acgam": [
+    "R_AGDC",
+    "R_APRTO2",
+    "R_ACGAMK",
+    "R_PTRCAT1",
+    "R_NABTNO",
+    "R_ACSm"
+  ],
+  "M_HC02149M_tyr_L": [
+    "R_2AMACHYD",
+    "R_CSNATp",
+    "R_CSNATer",
+    "R_PDHm",
+    "R_IDHPOXOXb",
+    "R_r1396",
+    "R_IDHPOXOX3"
+  ],
+  "M_acgamM_asn_L": [
+    "R_AGDC",
+    "R_ACGAMK",
+    "R_RE2644C",
+    "R_RE2032M"
+  ],
+  "M_HC01007M_glu_L": [
+    "R_SUCOASm",
+    "R_CYSTAm",
+    "R_r0637",
+    "R_AKGDm",
+    "R_FACOAL80i"
+  ],
+  "M_acgamM_met_L": [
+    "R_RE2640C",
+    "R_AGDC",
+    "R_ACGAMK",
+    "R_RE2030M"
+  ],
+  "M_citr_LM_crtsl": [
+    "R_CBPSam",
+    "R_MGCHrm",
+    "R_MCCCrm",
+    "R_RE2768C",
+    "R_r0463",
+    "R_OCBTm",
+    "R_ACSm"
+  ],
+  "M_5oxproM_met_L": [
+    "R_RE2640C",
+    "R_RE2642C",
+    "R_GGLUCT",
+    "R_GTMLTe",
+    "R_RE2030M",
+    "R_RE2031M"
+  ],
+  "M_gln_LM_tchola": [
+    "R_r0630",
+    "R_r0641",
+    "R_BAAT1x",
+    "R_r0629",
+    "R_LTC4CP",
+    "R_GLNS"
+  ],
+  "M_4aabutnM_HC02149": [
+    "R_RE2649M",
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_r1397",
+    "R_NABTNO",
+    "R_ACSm"
+  ],
+  "M_HC02149M_acrn": [
+    "R_CSNATer",
+    "R_r1396"
+  ],
+  "M_5oxproM_asn_L": [
+    "R_RE2642C",
+    "R_GGLUCT",
+    "R_GTMLTe",
+    "R_RE2644C",
+    "R_RE2031M",
+    "R_RE2032M"
+  ],
+  "M_LcystinM_gln_L": [
+    "R_r0568",
+    "R_GLUNm",
+    "R_GLUCYS",
+    "R_CYSGLTH"
+  ],
+  "M_acrnM_citr_L": [
+    "R_FUMm",
+    "R_ARGSL",
+    "R_CSNATp",
+    "R_PDHm",
+    "R_ARGSS",
+    "R_ME2m"
+  ],
+  "M_56dthmM_citr_L": [
+    "R_ORNTArm",
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_LEUTAm",
+    "R_D3AIBTm",
+    "R_r0074",
+    "R_RE2034C",
+    "R_r1154",
+    "R_OCBTm",
+    "R_DHPM2"
+  ],
+  "M_asn_LM_glu_L": [
+    "R_ICDHxm",
+    "R_LEUTAm",
+    "R_ACONTm",
+    "R_RE2644C",
+    "R_RE2032M",
+    "R_CSm"
+  ],
+  "M_HC01007M_acrn": [
+    "R_r0637",
+    "R_CSNATer"
+  ],
+  "M_HC02149M_glu_L": [
+    "R_CYSTAm",
+    "R_RE2034C",
+    "R_OBDHc",
+    "R_r1396"
+  ],
+  "M_HC01007M_tchola": [
+    "R_r0630",
+    "R_r0637",
+    "R_r0629",
+    "R_FACOAL80i"
+  ],
+  "M_gcholaM_glcn": [
+    "R_RE1834M",
+    "R_RPI",
+    "R_ADPT",
+    "R_RE0124C",
+    "R_BAAT1x",
+    "R_GNDer",
+    "R_r0591",
+    "R_PRPPS",
+    "R_r0033"
+  ],
+  "M_5oxproM_crtsl": [
+    "R_RE2642C",
+    "R_GGLUCT",
+    "R_GTMLTe",
+    "R_RE2768C",
+    "R_RE2031M"
+  ],
+  "M_glyc_RM_tyr_L": [
+    "R_2AMACHYD",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3"
+  ],
+  "M_acrnM_glcn": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_GNDer",
+    "R_RPEc",
+    "R_CSNATp",
+    "R_PDHm",
+    "R_r0055",
+    "R_TKT1"
+  ],
+  "M_acrnM_glyc_R": [
+    "R_GLYCK2",
+    "R_ENO",
+    "R_CSNATp",
+    "R_PDHm",
+    "R_RE2954C"
+  ],
+  "M_34hplM_acrn": [
+    "R_4HBZCOAFm",
+    "R_COUCOAFm",
+    "R_CSNATp",
+    "R_T4HCINNMFM"
+  ],
+  "M_gln_LM_met_L": [
+    "R_r0641",
+    "R_GNMT",
+    "R_SARCOXp",
+    "R_METAT",
+    "R_LTC4CP",
+    "R_GLNS"
+  ],
+  "M_asn_LM_tyr_L": [
+    "R_PCm",
+    "R_2AMACHYD",
+    "R_ASNS1",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3",
+    "R_ASPTAm"
+  ],
+  "M_4aabutnM_CE1554": [
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_RE2031M",
+    "R_NABTNO"
+  ],
+  "M_56dthmM_gchola": [
+    "R_RE1834M",
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_D3AIBTm",
+    "R_r0629",
+    "R_RE1836C",
+    "R_DHPM2"
+  ],
+  "M_acgamM_crtsl": [
+    "R_r0113",
+    "R_ACGAM6PSi",
+    "R_ACGAM2E",
+    "R_ACGAMPM",
+    "R_UAGDP",
+    "R_RE2768C",
+    "R_ACSm"
+  ],
+  "M_5htrpM_glcn": [
+    "R_G6PDH1rer",
+    "R_PGMT",
+    "R_CYTK7",
+    "R_UGLT",
+    "R_TRPO2",
+    "R_HAS2",
+    "R_ACGAMPM",
+    "R_RE2642C",
+    "R_r0403",
+    "R_RE0124C",
+    "R_LFORKYNHYD",
+    "R_PGLc",
+    "R_ACGAM6PSi",
+    "R_GALU",
+    "R_UAGDP",
+    "R_RE2031M"
+  ],
+  "M_HC01007M_gln_L": [
+    "R_r0157",
+    "R_SUCOASm",
+    "R_r0637",
+    "R_r0085",
+    "R_AKGDm",
+    "R_FACOAL80i"
+  ],
+  "M_met_LM_trp_L": [
+    "R_RE2640C",
+    "R_RE2642C",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_RE2030M",
+    "R_RE2031M"
+  ],
+  "M_crtslM_glcn": [
+    "R_G6PDH1rer",
+    "R_PGMT",
+    "R_CYTK7",
+    "R_UGLT",
+    "R_HAS2",
+    "R_ACGAMPM",
+    "R_RE2768C",
+    "R_ACSm",
+    "R_RE0124C",
+    "R_PGLc",
+    "R_ACGAM6PSi",
+    "R_GALU",
+    "R_UAGDP"
+  ],
+  "M_34hplM_Lcystin": [
+    "R_4HBZCOAFm",
+    "R_4HBZFm",
+    "R_MESCOALm",
+    "R_CYSGLTH",
+    "R_COUCOAFm",
+    "R_r0193",
+    "R_T4HCINNMFM",
+    "R_MECOAS1m"
+  ],
+  "M_5htrpM_met_L": [
+    "R_RE2640C",
+    "R_RE2642C",
+    "R_r0403",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_RE2030M",
+    "R_RE2031M"
+  ],
+  "M_34hplM_glcn": [
+    "R_G6PDH1rer",
+    "R_4HBZCOAFm",
+    "R_UMPK3n",
+    "R_PGMT",
+    "R_COUCOAFm",
+    "R_UGLT",
+    "R_HAS2",
+    "R_ACGAMPM",
+    "R_T4HCINNMFM",
+    "R_RE0124C",
+    "R_PGLc",
+    "R_ACGAM6PSi",
+    "R_GALU",
+    "R_UAGDP"
+  ],
+  "M_CE1554M_asn_L": [
+    "R_RE2644C",
+    "R_RE2031M",
+    "R_RE2032M"
+  ],
+  "M_asn_LM_gln_L": [
+    "R_RE1233C",
+    "R_ACONTm",
+    "R_RE2644C",
+    "R_ICDHyrm",
+    "R_GLNS",
+    "R_RE2032M",
+    "R_CSm"
+  ],
+  "M_5htrpM_HC02149": [
+    "R_RE2642C",
+    "R_r0403",
+    "R_LFORKYNHYD",
+    "R_CSNATp",
+    "R_TRPO2",
+    "R_CSNATer",
+    "R_r1396",
+    "R_RE2031M"
+  ],
+  "M_CE1554M_met_L": [
+    "R_RE2640C",
+    "R_RE2030M",
+    "R_RE2031M"
+  ],
+  "M_34hplM_tchola": [
+    "R_RE1834M",
+    "R_4HBZCOAFm",
+    "R_4HBZFm",
+    "R_COUCOAFm",
+    "R_BAAT2x",
+    "R_T4HCINNMFM"
+  ],
+  "M_glu_LM_met_L": [
+    "R_r0641",
+    "R_GNMT",
+    "R_SARCOXp",
+    "R_METAT",
+    "R_LTC4CP"
+  ],
+  "M_CE1554M_tchola": [
+    "R_r0630",
+    "R_r0629",
+    "R_FAOXC14C12x",
+    "R_RE2031M"
+  ],
+  "M_34hplM_56dthm": [
+    "R_BAAT4x",
+    "R_TMDPP",
+    "R_4HBZCOAFm",
+    "R_4HBZFm",
+    "R_NTD5m",
+    "R_GHMT2r",
+    "R_COUCOAFm",
+    "R_GHMT2rm",
+    "R_T4HCINNMFM",
+    "R_r0797",
+    "R_TMDS",
+    "R_r0330",
+    "R_RE1835C"
+  ],
+  "M_56dthmM_met_L": [
+    "R_TMDPP",
+    "R_GNMT",
+    "R_NTD5m",
+    "R_TMDS",
+    "R_METAT",
+    "R_r0330",
+    "R_SARDHm"
+  ],
+  "M_asn_LM_trp_L": [
+    "R_PCm",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_ASNS1",
+    "R_ASPTAm"
+  ],
+  "M_56dthmM_glcn": [
+    "R_TMDPP",
+    "R_NTD5m",
+    "R_PRPPS",
+    "R_RE3562M",
+    "R_GNMT",
+    "R_RE0124C",
+    "R_r0249",
+    "R_GNDer",
+    "R_r0051",
+    "R_TMDS",
+    "R_METAT",
+    "R_r0330",
+    "R_SARDHm"
+  ],
+  "M_CE1554M_acgam": [
+    "R_RE2642C",
+    "R_AGDC",
+    "R_ACGAMK"
+  ],
+  "M_56dthmM_asn_L": [
+    "R_TMDPP",
+    "R_GNMT",
+    "R_NTD5m",
+    "R_ADSS",
+    "R_ADSL1",
+    "R_ASNNm",
+    "R_TMDS",
+    "R_METAT",
+    "R_r0330",
+    "R_SARDHm",
+    "R_RE3562M"
+  ],
+  "M_glyc_RM_trp_L": [
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_SPTix",
+    "R_HPYRRy"
+  ],
+  "M_5htrpM_acgam": [
+    "R_ACNAM9PL",
+    "R_r0403",
+    "R_ACNMLr",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_DALAOXx",
+    "R_ACGAM2E",
+    "R_ACNAMPH",
+    "R_RE2954C",
+    "R_ALAR"
+  ],
+  "M_34hplM_HC01007": [
+    "R_4HBZCOAFm",
+    "R_4HBZFm",
+    "R_COUCOAFm",
+    "R_r0637",
+    "R_FACOAL80i",
+    "R_T4HCINNMFM"
+  ],
+  "M_HC01007M_tyr_L": [
+    "R_2AMACHYD",
+    "R_RE1234C",
+    "R_r0637",
+    "R_PDHm",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3",
+    "R_FACOAL80i"
+  ],
+  "M_5htrpM_5oxpro": [
+    "R_GGLUCT",
+    "R_r0403",
+    "R_LFORKYNHYD",
+    "R_GTMLTe",
+    "R_TRPO2"
+  ],
+  "M_56dthmM_CE1554": [
+    "R_TMDPP",
+    "R_RE2642C",
+    "R_NTD5m",
+    "R_AGTim",
+    "R_GHMT2r",
+    "R_TMDS",
+    "R_r0330",
+    "R_GHMT2rm"
+  ],
+  "M_56dthmM_acgam": [
+    "R_RE2640C",
+    "R_TMDPP",
+    "R_GNMT",
+    "R_AGDC",
+    "R_NTD5m",
+    "R_TMDS",
+    "R_ACGAMK",
+    "R_METAT",
+    "R_RE2030M",
+    "R_r0330",
+    "R_SARDHm"
+  ],
+  "M_CE1554M_trp_L": [
+    "R_RE2642C",
+    "R_LFORKYNHYD",
+    "R_TRPO2"
+  ],
+  "M_acgamM_glu_L": [
+    "R_ICDHyp",
+    "R_AGDC",
+    "R_LEUTAm",
+    "R_r1109",
+    "R_ACONTm",
+    "R_ACGAMK"
+  ],
+  "M_4aabutnM_Lcystin": [
+    "R_CYSLYSL",
+    "R_APRTO2",
+    "R_PDHm",
+    "R_PTRCAT1",
+    "R_NABTNO"
+  ],
+  "M_glcnM_trp_L": [
+    "R_G6PDH1rer",
+    "R_PGMT",
+    "R_CYTK7",
+    "R_UGLT",
+    "R_TRPO2",
+    "R_HAS2",
+    "R_ACGAMPM",
+    "R_RE2642C",
+    "R_RE0124C",
+    "R_LFORKYNHYD",
+    "R_PGLc",
+    "R_ACGAM6PSi",
+    "R_GALU",
+    "R_UAGDP",
+    "R_RE2031M"
+  ],
+  "M_34hplM_HC02149": [
+    "R_4HBZCOAFm",
+    "R_4HBZFm",
+    "R_COUCOAFm",
+    "R_OBDHc",
+    "R_r1396",
+    "R_T4HCINNMFM"
+  ],
+  "M_HC01007M_citr_L": [
+    "R_SUCD1m",
+    "R_ARGSL",
+    "R_r0637",
+    "R_SUCCACT",
+    "R_SUCCOAPET",
+    "R_ARGSS",
+    "R_FACOAL80i"
+  ],
+  "M_4aabutnM_citr_L": [
+    "R_ORNDC",
+    "R_ARGSL",
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_ARGSS",
+    "R_ARGNm",
+    "R_NABTNO"
+  ],
+  "M_LcystinM_glyc_R": [
+    "R_CYSLYSL",
+    "R_SPTix",
+    "R_HPYRRy"
+  ],
+  "M_LcystinM_crtsl": [
+    "R_RE2642C",
+    "R_AGTim",
+    "R_CYSGLTH",
+    "R_r0193",
+    "R_RE2768C",
+    "R_RE2031M"
+  ],
+  "M_gcholaM_met_L": [
+    "R_GNMT",
+    "R_BAAT1x",
+    "R_SARCOXp",
+    "R_METAT"
+  ],
+  "M_34hplM_asn_L": [
+    "R_4HBZCOAFm",
+    "R_COUCOAFm",
+    "R_RE2644C",
+    "R_T4HCINNMFM",
+    "R_RE2032M"
+  ],
+  "M_HC01007M_met_L": [
+    "R_RE2640C",
+    "R_CSNATm",
+    "R_r0637",
+    "R_RE2030M",
+    "R_FACOAL80i"
+  ],
+  "M_4aabutnM_trp_L": [
+    "R_RE2642C",
+    "R_LFORKYNHYD",
+    "R_APRTO2",
+    "R_TRPO2",
+    "R_PTRCAT1",
+    "R_RE2031M",
+    "R_NABTNO"
+  ],
+  "M_34hplM_gln_L": [
+    "R_ICDHyp",
+    "R_4HBZCOAFm",
+    "R_LEUTAm",
+    "R_COUCOAFm",
+    "R_ACONTm",
+    "R_GLNS",
+    "R_T4HCINNMFM",
+    "R_CSm"
+  ],
+  "M_gcholaM_trp_L": [
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_r0629"
+  ],
+  "M_HC01007M_trp_L": [
+    "R_RE2642C",
+    "R_r0634",
+    "R_LFORKYNHYD",
+    "R_ACACT4p",
+    "R_r0637",
+    "R_TRPO2",
+    "R_RE2031M"
+  ],
+  "M_citr_LM_gln_L": [
+    "R_CBPS",
+    "R_OCBTm"
+  ],
+  "M_acrnM_glu_L": [
+    "R_ICDHyp",
+    "R_CSNATr",
+    "R_LEUTAm",
+    "R_ACONTm",
+    "R_CSm"
+  ],
+  "M_CE1554M_tyr_L": [
+    "R_2AMACHYD",
+    "R_PDHm",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3",
+    "R_RE2031M"
+  ],
+  "M_glcnM_tyr_L": [
+    "R_G6PDH1rer",
+    "R_PGMT",
+    "R_CYTK7",
+    "R_UGLT",
+    "R_PDHm",
+    "R_HAS2",
+    "R_IDHPOXOX3",
+    "R_ACGAMPM",
+    "R_2AMACHYD",
+    "R_RE0124C",
+    "R_PGLc",
+    "R_ACGAM6PSi",
+    "R_GALU",
+    "R_IDHPOXOXb",
+    "R_UAGDP"
+  ],
+  "M_crtslM_gln_L": [
+    "R_ICDHyp",
+    "R_LEUTAm",
+    "R_r1109",
+    "R_ACONTm",
+    "R_RE2768C",
+    "R_GLNS"
+  ],
+  "M_glcnM_met_L": [
+    "R_RE2640C",
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_RPEc",
+    "R_PDHm",
+    "R_r0055",
+    "R_RE2030M",
+    "R_TKT1",
+    "R_GND"
+  ],
+  "M_56dthmM_glyc_R": [
+    "R_MESCOALm",
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_D3AIBTm",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_RE1836C",
+    "R_DHPM2",
+    "R_MECOAS1m"
+  ],
+  "M_met_LM_tchola": [
+    "R_RE1834M",
+    "R_RE2640C",
+    "R_BAAT2x",
+    "R_PTRCAT1",
+    "R_RE2030M"
+  ],
+  "M_5hoxindoaM_5htrp": [
+    "R_5HOXINDACTOXm",
+    "R_5HOXINOXDA",
+    "R_5HLTDL"
+  ],
+  "M_56dthmM_gln_L": [
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_LEUTAm",
+    "R_D3AIBTm",
+    "R_RE2034C",
+    "R_r1154",
+    "R_GLNS",
+    "R_DHPM2"
+  ],
+  "M_5htrpM_gchola": [
+    "R_r0403",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_r0629"
+  ],
+  "M_asn_LM_met_L": [
+    "R_RE2640C",
+    "R_RE2644C",
+    "R_RE2030M",
+    "R_RE2032M"
+  ],
+  "M_34hplM_acgam": [
+    "R_r0113",
+    "R_4HBZCOAFm",
+    "R_COUCOAFm",
+    "R_ACGAM6PSi",
+    "R_ACGAM2E",
+    "R_ACGAMPM",
+    "R_UAGDP",
+    "R_T4HCINNMFM"
+  ],
+  "M_crtslM_tchola": [
+    "R_RE1834M",
+    "R_BAAT2x",
+    "R_PTRCAT1",
+    "R_RE2768C",
+    "R_ACSm"
+  ],
+  "M_LkynrM_tchola": [
+    "R_BAAT1x",
+    "R_AGTim",
+    "R_HKYNH",
+    "R_BAAT2x",
+    "R_r0629",
+    "R_KYN3OX"
+  ],
+  "M_gcholaM_tyr_L": [
+    "R_r0399",
+    "R_PHETHPTOX2",
+    "R_2AMACHYD",
+    "R_AGTim",
+    "R_ALATA_L",
+    "R_r0629",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3"
+  ],
+  "M_5htrpM_HC01007": [
+    "R_RE2642C",
+    "R_r0403",
+    "R_r0634",
+    "R_LFORKYNHYD",
+    "R_ACACT4p",
+    "R_r0637",
+    "R_TRPO2",
+    "R_RE2031M"
+  ],
+  "M_asn_LM_glcn": [
+    "R_PCm",
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_RPEc",
+    "R_ASNS1",
+    "R_r0055",
+    "R_ASPTAm",
+    "R_TKT1",
+    "R_GND"
+  ],
+  "M_glyc_RM_met_L": [
+    "R_RE2640C",
+    "R_GLYCK2",
+    "R_ENO",
+    "R_PDHm",
+    "R_RE2030M",
+    "R_RE2954C"
+  ],
+  "M_CE1554M_Lcystin": [
+    "R_RE2642C",
+    "R_CYSLYSL",
+    "R_ALATA_L"
+  ],
+  "M_56dthmM_Lkynr": [
+    "R_TMDPP",
+    "R_GNMT",
+    "R_NTD5m",
+    "R_AGTim",
+    "R_HKYNH",
+    "R_TMDS",
+    "R_r0330",
+    "R_SARDHm",
+    "R_KYN3OX"
+  ],
+  "M_HC01007M_HC02149": [
+    "R_r0636",
+    "R_r1396"
+  ],
+  "M_34hplM_gchola": [
+    "R_RE1834M",
+    "R_4HBZCOAFm",
+    "R_4HBZFm",
+    "R_BAAT1x",
+    "R_COUCOAFm",
+    "R_T4HCINNMFM"
+  ],
+  "M_glcnM_glu_L": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_GNDer",
+    "R_RPEc",
+    "R_LGTHL",
+    "R_r0130",
+    "R_GLYOXm",
+    "R_TKT1"
+  ],
+  "M_4aabutnM_met_L": [
+    "R_RE2640C",
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_RE2030M",
+    "R_NABTNO"
+  ],
+  "M_tcholaM_trp_L": [
+    "R_BAAT1x",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_BAAT2x",
+    "R_TRPO2",
+    "R_r0629"
+  ],
+  "M_4aabutnM_glu_L": [
+    "R_ORNTArm",
+    "R_ORNDC",
+    "R_APRTO2",
+    "R_r0074",
+    "R_PTRCAT1",
+    "R_NABTNO"
+  ],
+  "M_34hplM_glu_L": [
+    "R_ICDHyp",
+    "R_4HBZCOAFm",
+    "R_LEUTAm",
+    "R_COUCOAFm",
+    "R_ACONTm",
+    "R_T4HCINNMFM",
+    "R_CSm"
+  ],
+  "M_glu_LM_glyc_R": [
+    "R_r0568",
+    "R_GLUCYS",
+    "R_r0193",
+    "R_SPTix",
+    "R_HPYRRy"
+  ],
+  "M_5htrpM_trp_L": [
+    "R_r0403"
+  ],
+  "M_HC02149M_glyc_R": [
+    "R_MESCOALm",
+    "R_C30CPT1",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_r1397",
+    "R_MECOAS1m"
+  ],
+  "M_crtslM_glu_L": [
+    "R_ICDHyp",
+    "R_LEUTAm",
+    "R_r1109",
+    "R_ACONTm",
+    "R_RE2768C"
+  ],
+  "M_gcholaM_glu_L": [
+    "R_GGT5r",
+    "R_r0629",
+    "R_LTC4CP"
+  ],
+  "M_LcystinM_citr_L": [
+    "R_FUMm",
+    "R_CYSGLTH",
+    "R_ARGSL",
+    "R_r0193",
+    "R_ARGSS",
+    "R_ME2m"
+  ],
+  "M_5htrpM_ind3ac": [
+    "R_TRYPTAOX",
+    "R_r0403",
+    "R_LTDCL",
+    "R_ALDD20x"
+  ],
+  "M_34hplM_5oxpro": [
+    "R_4HBZCOAFm",
+    "R_RE2642C",
+    "R_GGLUCT",
+    "R_GTMLTe",
+    "R_COUCOAFm",
+    "R_RE2031M",
+    "R_T4HCINNMFM"
+  ],
+  "M_citr_LM_glu_L": [
+    "R_ORNTArm",
+    "R_r0074",
+    "R_OCBTm"
+  ],
+  "M_tcholaM_tyr_L": [
+    "R_2AMACSULT",
+    "R_BAAT2x",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3",
+    "R_LCYSTCBOXL"
+  ],
+  "M_acrnM_gln_L": [
+    "R_CSNATm",
+    "R_CYSTAm",
+    "R_ACONTm",
+    "R_ICDHyrm",
+    "R_GLNS",
+    "R_CSm"
+  ],
+  "M_acrnM_trp_L": [
+    "R_RE2642C",
+    "R_LFORKYNHYD",
+    "R_CSNATp",
+    "R_TRPO2",
+    "R_RE2031M"
+  ],
+  "M_LkynrM_gchola": [
+    "R_AGTim",
+    "R_HKYNH",
+    "R_r0629",
+    "R_KYN3OX"
+  ],
+  "M_crtslM_gchola": [
+    "R_RE2642C",
+    "R_AGTim",
+    "R_r0629",
+    "R_RE2768C",
+    "R_RE2031M"
+  ],
+  "M_5oxproM_citr_L": [
+    "R_ORNTArm",
+    "R_r0074",
+    "R_OPAHir",
+    "R_OCBTm"
+  ],
+  "M_HC02149M_trp_L": [
+    "R_RE2642C",
+    "R_LFORKYNHYD",
+    "R_CSNATp",
+    "R_TRPO2",
+    "R_CSNATer",
+    "R_r1396",
+    "R_RE2031M"
+  ],
+  "M_4aabutnM_tyr_L": [
+    "R_2AMACHYD",
+    "R_APRTO2",
+    "R_PDHm",
+    "R_PTRCAT1",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3",
+    "R_NABTNO"
+  ],
+  "M_56dthmM_trp_L": [
+    "R_TMDPP",
+    "R_NTD5m",
+    "R_FKYNH",
+    "R_TRPO2",
+    "R_TMDS",
+    "R_MTHFCm",
+    "R_MTHFDm",
+    "R_r0330",
+    "R_FTHFL"
+  ],
+  "M_HC01007M_glyc_R": [
+    "R_MESCOALm",
+    "R_r0634",
+    "R_r0636",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_MECOAS1m"
+  ],
+  "M_citr_LM_tyr_L": [
+    "R_r0399",
+    "R_PEAMNO",
+    "R_r0488",
+    "R_r0545",
+    "R_PACCOAL",
+    "R_CBPSam",
+    "R_PHYCBOXL",
+    "R_MGCHrm",
+    "R_MCCCrm",
+    "R_PHACCOAGLNAC",
+    "R_OCBTm"
+  ],
+  "M_glcnM_gln_L": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_GNDer",
+    "R_RPEc",
+    "R_LGTHL",
+    "R_r0130",
+    "R_GLYOXm",
+    "R_TKT1",
+    "R_GLNS"
+  ],
+  "M_asn_LM_gchola": [
+    "R_RE1834M",
+    "R_BAAT1x",
+    "R_PTRCAT1",
+    "R_RE2644C",
+    "R_RE2032M"
+  ],
+  "M_HC02149M_crtsl": [
+    "R_PTRCAT1",
+    "R_OBDHc",
+    "R_r1396",
+    "R_RE2768C",
+    "R_ACSm"
+  ],
+  "M_34hplM_crtsl": [
+    "R_P45017A1r",
+    "R_P45011B12m",
+    "R_4HBZCOAFm",
+    "R_4HBZFm",
+    "R_r1180",
+    "R_COUCOAFm",
+    "R_HSD3B13r",
+    "R_P45021A2r",
+    "R_LNLCCPT2",
+    "R_T4HCINNMFM",
+    "R_r1168",
+    "R_P45011A1m"
+  ],
+  "M_acrnM_met_L": [
+    "R_RE2640C",
+    "R_CSNATp",
+    "R_RE2030M"
+  ],
+  "M_LkynrM_crtsl": [
+    "R_P45011B12m",
+    "R_r1180",
+    "R_HSD3B13r",
+    "R_PDHm",
+    "R_P45011A1m",
+    "R_P45017A1r",
+    "R_AGTim",
+    "R_HKYNH",
+    "R_P45021A2r",
+    "R_PTRCAT1",
+    "R_LNLCCPT2",
+    "R_KYN3OX",
+    "R_r1168"
+  ],
+  "M_asn_LM_citr_L": [
+    "R_ARGSL",
+    "R_ASNNm",
+    "R_ARGSS",
+    "R_ARGNm",
+    "R_OCBTm"
+  ],
+  "M_5htrpM_gln_L": [
+    "R_GGT5r",
+    "R_r0403",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_LTC4CP",
+    "R_GLNS"
+  ],
+  "M_gcholaM_tchola": [
+    "R_r0630",
+    "R_BAAT1x"
+  ],
+  "M_gln_LM_glu_L": [
+    "R_GLNS"
+  ],
+  "M_citr_LM_trp_L": [
+    "R_ORNTArm",
+    "R_SFGTH",
+    "R_FKYNH",
+    "R_TRPO2",
+    "R_r0074",
+    "R_r0130",
+    "R_FALDH",
+    "R_OCBTm"
+  ],
+  "M_citr_LM_glyc_R": [
+    "R_FUMm",
+    "R_ARGSL",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_ARGSS",
+    "R_ME2m"
+  ],
+  "M_34hplM_glyc_R": [
+    "R_4HBZCOAFm",
+    "R_4HBZFm",
+    "R_MESCOALm",
+    "R_COUCOAFm",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_T4HCINNMFM",
+    "R_MECOAS1m"
+  ],
+  "M_5oxproM_acrn": [
+    "R_CSNATm",
+    "R_RE2642C",
+    "R_GGLUCT",
+    "R_GTMLTe",
+    "R_RE2031M"
+  ],
+  "M_CE1554M_gln_L": [
+    "R_r0641",
+    "R_RE2642C",
+    "R_AGTim",
+    "R_LTC4CP",
+    "R_GLNS"
+  ],
+  "M_5oxproM_tyr_L": [
+    "R_3HLYTCL",
+    "R_GGLUCT",
+    "R_MAOX",
+    "R_SFGTH",
+    "R_GTMLTe",
+    "R_NORANMT",
+    "R_41R1H2MAE12BOOX",
+    "R_TYR3MO2",
+    "R_DOPABMO",
+    "R_FALDH"
+  ],
+  "M_56dthmM_HC01007": [
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_D3AIBTm",
+    "R_r0637",
+    "R_RE1836C",
+    "R_FACOAL80i",
+    "R_DHPM2"
+  ],
+  "M_acgamM_tyr_L": [
+    "R_ACNAM9PL",
+    "R_2AMACHYD",
+    "R_ACNMLr",
+    "R_ACGAM2E",
+    "R_IDHPOXOXb",
+    "R_IDHPOXOX3",
+    "R_ACNAMPH",
+    "R_RE2954C"
+  ],
+  "M_4aabutnM_glyc_R": [
+    "R_GLYCK2",
+    "R_ENO",
+    "R_APRTO2",
+    "R_PDHm",
+    "R_PTRCAT1",
+    "R_RE2954C",
+    "R_NABTNO"
+  ],
+  "M_5htrpM_CE1554": [
+    "R_RE2642C",
+    "R_r0403",
+    "R_LFORKYNHYD",
+    "R_TRPO2"
+  ],
+  "M_HC02149M_met_L": [
+    "R_RE2640C",
+    "R_CSNATp",
+    "R_CSNATer",
+    "R_r1396",
+    "R_RE2030M"
+  ],
+  "M_glu_LM_tchola": [
+    "R_r0630",
+    "R_GGT5r",
+    "R_BAAT1x",
+    "R_r0629",
+    "R_LTC4CP"
+  ],
+  "M_citr_LM_glcn": [
+    "R_ORNTArm",
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_GNDer",
+    "R_RPEc",
+    "R_r0074",
+    "R_LGTHL",
+    "R_r0130",
+    "R_GLYOXm",
+    "R_TKT1",
+    "R_OCBTm"
+  ],
+  "M_glu_LM_tyr_L": [
+    "R_r0399",
+    "R_PHETHPTOX2",
+    "R_GGT5r",
+    "R_2AMACHYD",
+    "R_AGTim",
+    "R_ALATA_L",
+    "R_IDHPOXOXb",
+    "R_LTC4CP",
+    "R_IDHPOXOX3"
+  ],
+  "M_glu_LM_trp_L": [
+    "R_GGT5r",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_LTC4CP"
+  ],
+  "M_5hoxindoaM_trp_L": [
+    "R_5HOXINDACTOXm",
+    "R_5HOXINOXDA",
+    "R_TRPHYDRO2",
+    "R_5HLTDL"
+  ],
+  "M_LkynrM_met_L": [
+    "R_RE2640C",
+    "R_AGTim",
+    "R_HKYNH",
+    "R_PDHm",
+    "R_RE2030M",
+    "R_KYN3OX"
+  ],
+  "M_4aabutnM_acrn": [
+    "R_CSNATm",
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_NABTNO"
+  ],
+  "M_56dthmM_Lcystin": [
+    "R_TMDPP",
+    "R_NTD5m",
+    "R_AGTim",
+    "R_GHMT2r",
+    "R_CYSLYSL",
+    "R_TMDS",
+    "R_r0330",
+    "R_GHMT2rm",
+    "R_r0156"
+  ],
+  "M_acgamM_tchola": [
+    "R_RE1834M",
+    "R_AGDC",
+    "R_BAAT2x",
+    "R_ACGAMK",
+    "R_PTRCAT1",
+    "R_ACSm"
+  ],
+  "M_HC01007M_acgam": [
+    "R_RE1234C",
+    "R_AGDC",
+    "R_r0637",
+    "R_ACGAMK",
+    "R_FACOAL80i",
+    "R_ACSm"
+  ],
+  "M_acrnM_asn_L": [
+    "R_CSNATp",
+    "R_RE2644C",
+    "R_RE2032M"
+  ],
+  "M_CE1554M_glu_L": [
+    "R_GGLUCT",
+    "R_RE2642C",
+    "R_r0129",
+    "R_GTMLTe"
+  ],
+  "M_gln_LM_trp_L": [
+    "R_GGT5r",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_LTC4CP",
+    "R_GLNS"
+  ],
+  "M_56dthmM_glu_L": [
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_LEUTAm",
+    "R_D3AIBTm",
+    "R_RE2034C",
+    "R_r1154",
+    "R_DHPM2"
+  ],
+  "M_acgamM_trp_L": [
+    "R_ACNAM9PL",
+    "R_ACNMLr",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_DALAOXx",
+    "R_ACGAM2E",
+    "R_ACNAMPH",
+    "R_RE2954C",
+    "R_ALAR"
+  ],
+  "M_4aabutnM_HC01007": [
+    "R_r0634",
+    "R_r0636",
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_NABTNO",
+    "R_ACSm"
+  ],
+  "M_HC02149M_citr_L": [
+    "R_SUCOASm",
+    "R_SUCD1m",
+    "R_ARGSL",
+    "R_SUCCACT",
+    "R_ARGSS",
+    "R_OBDHc",
+    "R_r1396"
+  ],
+  "M_5oxproM_glcn": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_r0568",
+    "R_GNDer",
+    "R_GLUCYS",
+    "R_RPEc",
+    "R_r0193",
+    "R_r0055",
+    "R_TKT1"
+  ],
+  "M_acgamM_gln_L": [
+    "R_ICDHyp",
+    "R_AGDC",
+    "R_LEUTAm",
+    "R_r1109",
+    "R_ACONTm",
+    "R_ACGAMK",
+    "R_GLNS"
+  ],
+  "M_4aabutnM_Lkynr": [
+    "R_AGTim",
+    "R_HKYNH",
+    "R_APRTO2",
+    "R_PDHm",
+    "R_PTRCAT1",
+    "R_NABTNO",
+    "R_KYN3OX"
+  ],
+  "M_gcholaM_gln_L": [
+    "R_GGT5r",
+    "R_r0629",
+    "R_LTC4CP",
+    "R_GLNS"
+  ],
+  "M_acgamM_citr_L": [
+    "R_AGDC",
+    "R_CBPSam",
+    "R_MGCHrm",
+    "R_ACGAMK",
+    "R_MCCCrm",
+    "R_r0463",
+    "R_OCBTm",
+    "R_ACSm"
+  ],
+  "M_34hplM_4aabutn": [
+    "R_4HBZCOAFm",
+    "R_COUCOAFm",
+    "R_APRTO2",
+    "R_PTRCAT1",
+    "R_NABTNO",
+    "R_T4HCINNMFM"
+  ],
+  "M_gln_LM_glyc_R": [
+    "R_r0568",
+    "R_GLUNm",
+    "R_GLUCYS",
+    "R_r0193",
+    "R_SPTix",
+    "R_HPYRRy"
+  ],
+  "M_5htrpM_glu_L": [
+    "R_GGT5r",
+    "R_r0403",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_TRPO2",
+    "R_LTC4CP"
+  ],
+  "M_34hplM_phe_L": [
+    "R_PHETHPTOX2",
+    "R_TYRTAm",
+    "R_34HPLFM"
+  ],
+  "M_HC01007M_asn_L": [
+    "R_r0637",
+    "R_PTRCAT1",
+    "R_RE2644C",
+    "R_FACOAL80i",
+    "R_RE2032M"
+  ],
+  "M_HC01007M_Lcystin": [
+    "R_CSNATm",
+    "R_CYSLYSL",
+    "R_r0637",
+    "R_PDHm",
+    "R_FACOAL80i"
+  ],
+  "M_56dthmM_5oxpro": [
+    "R_r0568",
+    "R_BUP2",
+    "R_MMSAD1m",
+    "R_LEUTAm",
+    "R_GLUCYS",
+    "R_D3AIBTm",
+    "R_RE2034C",
+    "R_r1154",
+    "R_DHPM2"
+  ],
+  "M_asn_LM_tchola": [
+    "R_r0630",
+    "R_ACACT1rm",
+    "R_BAAT2x",
+    "R_RE2644C",
+    "R_RE2032M"
+  ],
+  "M_asn_LM_crtsl": [
+    "R_RE2644C",
+    "R_RE2768C",
+    "R_RE2032M"
+  ],
+  "M_5oxproM_glyc_R": [
+    "R_GLYCK2",
+    "R_GGLUCT",
+    "R_ENO",
+    "R_GTMLTe",
+    "R_r0280",
+    "R_ALATA_L"
+  ],
+  "M_56dthmM_tyr_L": [
+    "R_TMDPP",
+    "R_NTD5m",
+    "R_GHMT2r",
+    "R_IDHPOXOX3",
+    "R_GHMT2rm",
+    "R_r0399",
+    "R_PHETHPTOX2",
+    "R_2AMACHYD",
+    "R_AGTim",
+    "R_D3AIBTm",
+    "R_TMDS",
+    "R_IDHPOXOXb",
+    "R_r0330"
+  ],
+  "M_HC02149M_tchola": [
+    "R_r0630",
+    "R_r0629",
+    "R_OBDHc",
+    "R_r1396"
+  ],
+  "M_gln_LM_tyr_L": [
+    "R_r0399",
+    "R_PHETHPTOX2",
+    "R_GGT5r",
+    "R_2AMACHYD",
+    "R_AGTim",
+    "R_ALATA_L",
+    "R_IDHPOXOXb",
+    "R_LTC4CP",
+    "R_IDHPOXOX3",
+    "R_GLNS"
+  ],
+  "M_LcystinM_Lkynr": [
+    "R_HKYNH",
+    "R_CYSGLTH",
+    "R_D3AIBTm",
+    "R_r0193",
+    "R_KYN3OX"
+  ],
+  "M_HC01007M_crtsl": [
+    "R_r0637",
+    "R_PTRCAT1",
+    "R_RE2768C",
+    "R_FACOAL80i",
+    "R_ACSm"
+  ],
+  "M_5oxproM_HC01007": [
+    "R_SUCOASm",
+    "R_CYSTAm",
+    "R_r0637",
+    "R_OPAHir",
+    "R_AKGDm",
+    "R_FACOAL80i"
+  ],
+  "M_5htrpM_tchola": [
+    "R_r0403",
+    "R_BAAT1x",
+    "R_AGTim",
+    "R_LFORKYNHYD",
+    "R_BAAT2x",
+    "R_TRPO2",
+    "R_r0629"
+  ],
+  "M_glyc_RM_tchola": [
+    "R_r0630",
+    "R_MESCOALm",
+    "R_r0629",
+    "R_SPTix",
+    "R_HPYRRy",
+    "R_MECOAS1m"
+  ],
+  "M_5oxproM_trp_L": [
+    "R_GGLUCT",
+    "R_LFORKYNHYD",
+    "R_GTMLTe",
+    "R_TRPO2"
+  ],
+  "M_acgamM_gchola": [
+    "R_RE2642C",
+    "R_AGDC",
+    "R_AGTim",
+    "R_r0629",
+    "R_ACGAMK",
+    "R_RE2031M"
+  ],
+  "M_4aabutnM_glcn": [
+    "R_RE0124C",
+    "R_MGSA2",
+    "R_GNDer",
+    "R_RPEc",
+    "R_APRTO2",
+    "R_PDHm",
+    "R_PTRCAT1",
+    "R_r0055",
+    "R_TKT1",
+    "R_NABTNO"
+  ],
+  "M_5oxproM_gln_L": [
+    "R_OPAHir",
+    "R_GLNS"
+  ]
+}
