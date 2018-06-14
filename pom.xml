@@ -6,7 +6,7 @@
 
     <groupId>fr.inra.toulouse.metexplore</groupId>
   <artifactId>FingerprintSubnetwork</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <dependencies>
   	<dependency>
   		<groupId>fr.inra.toulouse.metexplore</groupId>
