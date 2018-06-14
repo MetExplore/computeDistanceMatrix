@@ -4,8 +4,12 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import fr.inra.toulouse.metexplore.met4j_core.biodata.*;
 import fr.inra.toulouse.metexplore.met4j_core.io.Sbml2BioNetworkLite;
+import org.apache.maven.model.Model;
+import org.apache.maven.model.io.xpp3.MavenXpp3Reader;
+import org.codehaus.plexus.util.xml.pull.XmlPullParserException;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -15,10 +19,7 @@ import org.kohsuke.args4j.CmdLineParser;
 import org.kohsuke.args4j.Option;
 
 import javax.xml.parsers.ParserConfigurationException;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.HashMap;
 
 /**
@@ -32,6 +33,12 @@ public class DistanceMatrixAnalysis {
     public String label = "MeSH to Metabolites Analysis";
     public String description = "Computes the Metab2Mesh algorithm to get associated metabolites from a MeSH.";
     public JSONObject networkJson;
+
+    /**
+     * metabolic network
+     */
+    @Option(name = "-h", usage = "Help", metaVar = "Help", required = false)
+    private boolean help = false;
 
     /**
      * metabolic network
@@ -70,12 +77,21 @@ public class DistanceMatrixAnalysis {
     private String reactionresult;
 
     /**
+     * Arg to use the class in MetExplore
+     *
+     */
+    @Option(name = "-useMetExploreOutput", usage = "useMetExploreOutput", metaVar = "useMetExploreOutput", required = false)
+    private boolean useMetExploreOutput = false;
+
+
+
+    /**
      * Constructor
      */
     private DistanceMatrixAnalysis() {
         super();
     }
-    public DistanceMatrixAnalysis(String fingerprintPath, String sbmlPath, String atomMappingPath, String algo, String matrixresult, String reactionresult) {
+    public DistanceMatrixAnalysis(String fingerprintPath, String sbmlPath, String atomMappingPath, String algo, String matrixresult, String reactionresult, String useMetExploreOutput, String help) {
         super();
         this.fingerprintPath = fingerprintPath;
         this.sbmlPath = sbmlPath;
@@ -83,6 +99,9 @@ public class DistanceMatrixAnalysis {
         this.atomMappingPath = atomMappingPath;
         this.matrixresult = matrixresult;
         this.reactionresult = reactionresult;
+
+        this.useMetExploreOutput = (useMetExploreOutput.toLowerCase().equals("true")) ? true : false ;
+        this.help = (help.toLowerCase().equals("true")) ? true : false ;
     }
     /**
          * The main method.
@@ -92,7 +111,7 @@ public class DistanceMatrixAnalysis {
          * @throws org.xml.sax.SAXException the SAX exception
          * @throws IOException Signals that an I/O exception has occurred.
          */
-    public static void main(String[] args) throws ParserConfigurationException, org.xml.sax.SAXException, IOException, IllegalArgumentException, IllegalAccessException {
+    public static void main(String[] args) throws ParserConfigurationException, org.xml.sax.SAXException, IOException, IllegalArgumentException, IllegalAccessException, XmlPullParserException {
         DistanceMatrixAnalysis app = new DistanceMatrixAnalysis();
 
         CmdLineParser parser = new CmdLineParser(app);
@@ -103,43 +122,121 @@ public class DistanceMatrixAnalysis {
             e.printStackTrace();
             System.exit(0);
         }
-        JSONObject jsonObject = app.run();
+        app.run();
 
-        String json = jsonObject.toString();
-        System.out.println(jsonObject);
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
 
-        JsonParser jp = new JsonParser();
-        JsonElement je = jp.parse(json);
-        String prettyJsonString = gson.toJson(je);
-
-        System.out.println(prettyJsonString );
     }
 
     @SuppressWarnings("unchecked")
-    public JSONObject run() throws IllegalArgumentException,
-            IllegalAccessException {
+    public void run() throws IllegalArgumentException,
+            IllegalAccessException, IOException, XmlPullParserException {
 
-        if(this.matrixresult==null)
+        if(this.help){
+            MavenXpp3Reader reader = new MavenXpp3Reader();
+            Model model = reader.read(new FileReader("pom.xml"));
+            System.out.println( "                           `-:+syhdmNNNNNNNNmdhys+:-`                           ");
+            System.out.println( "                      `-+ydNNmhso+/:-......--:/osydNNdy+-`                      ");
+            System.out.println( "                   -ohNNds/-`                       ./ohmNho-                   ");
+            System.out.println( "                -omNds:`          `.-::::::--`          `-ohNms-                ");
+            System.out.println( "             `+dNdo-       `-/oydmNNNNNNNNNNy   /s`         `+hNd+`             ");
+            System.out.println( "           .omNy:`      -+hmNNNNNNNNNNNNNNNNm/-:dNy.   -`      .ommo.           ");
+            System.out.println( "         `omNs.      :smNNNNNNNNNNNNNNNNNNNNNhsshNNNdhdNNh/`     `+mmo`         ");
+            System.out.println( "        /mNy.     `+dNNNNNNNNNNNNNNNNNNNNNNN:`  `:NNNs`.yNNms-     `omm/        ");
+            System.out.println( "      `yNd:     `+mNNNNNNNNNNNNNNNNNNNNNNNNm      mNNh/-sdNNNNy-     .yNy`      ");
+            System.out.println( "     -dNy`     /dNNNNNNNNNNNNNNNNNNNNNNNNNNNh/--/hdy+:````:mNNNNs`     +Nd-     ");
+            System.out.println( "    :mN+     `yNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNms/.`        -NNNNNm:     -mm:    ");
+            System.out.println( "   :mN+     -dNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN/             /NNNNNNo     -mN:   ");
+            System.out.println( "  .mN+     -mNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNm               oNNNNNNs     -mm.  ");
+            System.out.println( " `hNy     .mNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNm       /        yNNNNNNo     /Nd` ");
+            System.out.println( " +Nm`    `dNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN`      d:       `hNNNNNN:     yN+ ");
+            System.out.println( "`mN+     +NNNNNNNNNNNNmddmNNNNNNNNNNNNNNNNNNNN.      hm.       .dNNNNNd     .Nm`");
+            System.out.println( "/NN`     mNNNNNNNmhs/-.``.:yNNNNNNNNNNNNNNNNNN-      sNd`       -mNNNNN/     yN/");
+            System.out.println( "yNh     :NNNNNy+-.          :hNNNNNNNNNNNNNNNN:      +NNh`       :NNNNNy     /Ny");
+            System.out.println( "dNo     +NNNN/               `/dNNNNNNNNNNNNNN/      /NNNs        +NNNNm     -Nm");
+            System.out.println( "NN+     sNNNN+        ``       `+mNNNNNNNNNNNN+      -NNNN+        sNNNN     `NN");
+            System.out.println( "NN+     oNNNNN-       `o:        .omNNNNNNNNNNo      .NNNNN/       `yNNN     `NN");
+            System.out.println( "dNo     /NNNNNm.       .dy.        .smNNNNNNNNs       NNNNNm-       `dNd     -Nm");
+            System.out.println( "yNh     .NNNNNNd`       -Nmo.        -yNNNNNNNy       mNNNNNm.       .mo     +Ny");
+            System.out.println( "/NN.     yNNNNNNy`       /NNm+`        :hNNNNNh       hNNNNNNh`       :.     hN/");
+            System.out.println( "`mNs     -NNNNNNNo        oNNNd:`        /dNNNm       yNNNNNNNy             -Nm`");
+            System.out.println( " +NN.     oNNNNNNN+        sNNNNy-        `/dNN       oNNNNNNNNo            hN+ ");
+
+            System.out.println("---------------------------------------------------------------------------------------");
+            System.out.println(model.getArtifactId());
+            System.out.println("---------------------------------------------------------------------------------------");
+            System.out.println("Version "+model.getVersion());
+            System.out.println("From "+model.getGroupId());
+            System.out.println("This part of "+model.getArtifactId()+" allows to compute distances between each pair fingerprint metabolites.");
+
+            System.out.println();
+
+            System.out.println("Required parameters");
+            System.out.println("    -fingerprint <filepath> : a file with metabolite dbIdentifier");
+            System.out.println("    -network <filepath> : a sbml file (metabolic network standard)");
+            System.out.println("    -atommapping <filepath> : a file with Atom Atom Mapping");
+
+            System.out.println();
+
+            System.out.println("Facultative parameters");
+            System.out.println("    -h : display help");
+            System.out.println("    -matrixresult <filepath> : an output redirection of distance matrix");
+            System.out.println("    -reactionresult <filepath> : an output redirection to keep path between metabolites");
+            System.out.println("    -algo <filepath> : choose between ShortestAsUndirected and ValidShortest algorithm, default:ValidShortest");
+            System.out.println("    -useMetExploreOutput : to return json for MetExplore integration");
+            System.out.println("---------------------------------------------------------------------------------------");
+
+            System.out.println("     ___  ___   ____   _____   ____  __    __  _____   _      _____   _____    ____  ");
+            System.out.println("    /   |/   | | ___| |_   _| | ___| \\ \\  / / |  _  \\ | |    /  _  \\ |  _  \\  | ___| ");
+            System.out.println("   / /|   /| | | |_     | |   | |_    \\ \\/ /  | |_| | | |    | | | | | |_| |  | |_   ");
+            System.out.println("  / / |__/ | | |  _|    | |   |  _|    }  {   |  ___/ | |    | | | | |  _  /  |  _|  ");
+            System.out.println(" / /       | | | |__    | |   | |__   / /\\ \\  | |     | |__  | |_| | | | \\ \\  | |__  ");
+            System.out.println("/_/        |_| |____|   |_|   |____| /_/  \\_\\ |_|     |____| \\_____/ |_|  \\_\\ |____| ");
+        }
+        else
         {
-            System.err.println("Started");
-            JSONParser parser = new JSONParser();
-            JSONObject networkArg = null;
-            try {
-                networkArg = (JSONObject) parser.parse(new FileReader(this.sbmlPath));
-            } catch (ParseException e) {
-                e.printStackTrace();
-            } catch (FileNotFoundException e) {
-                e.printStackTrace();
-            } catch (IOException e) {
-                e.printStackTrace();
+            if(!this.useMetExploreOutput){
+                //create a temp file
+                File temp = File.createTempFile("closeErr", ".tmp");
+
+                OutputStream output = new FileOutputStream(temp.getAbsolutePath());
+                PrintStream printErr = new PrintStream(output);
+
+                System.setErr(printErr);
+            }
+            String json = "";
+            if(this.matrixresult==null)
+            {
+                System.err.println("Started");
+                JSONParser parser = new JSONParser();
+                JSONObject networkArg = null;
+                try {
+                    networkArg = (JSONObject) parser.parse(new FileReader(this.sbmlPath));
+                } catch (ParseException e) {
+                    e.printStackTrace();
+                } catch (FileNotFoundException e) {
+                    e.printStackTrace();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+
+                this.networkJson = networkArg;
+
+                json = this.launchDistanceMatrix().toString();
+            }
+            else
+            {
+                json = this.launchDistanceMatrixFile().toString();
             }
 
-            this.networkJson = networkArg;
-            return this.launchDistanceMatrix();
-        }
-        return this.launchDistanceMatrixFile();
+            if(this.useMetExploreOutput){
+                Gson gson = new GsonBuilder().setPrettyPrinting().create();
+                JsonParser jp = new JsonParser();
+                JsonElement je = jp.parse(json);
+                String prettyJsonString = gson.toJson(je);
 
+                System.out.println(prettyJsonString );
+            }
+        }
     }
 
     protected BioNetwork createBioNetwork() {

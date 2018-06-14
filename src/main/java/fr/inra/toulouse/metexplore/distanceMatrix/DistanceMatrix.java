@@ -191,13 +191,11 @@ public class DistanceMatrix {
 
 								if (this.algo.equals("ShortestAsUndirected"))
 								{
-									System.out.println("ShortestAsUndirected");
 									pathsimple = (new ShortestPath<BioPhysicalEntity, ReactionEdge, CompoundGraph>(compoundGraph)).getShortestAsUndirected(source, target);
 									pathsimple = (new ShortestPath<BioPhysicalEntity, ReactionEdge, CompoundGraph>(compoundGraph)).getShortestAsUndirected(target, source);
 
 								}
 								else{
-									System.out.println("ValidShortestPath");
 									pathsimple = (new ValidShortestPath(compoundGraph)).getValidShortest(source, target, 15);
 									pathreverse = (new ValidShortestPath(compoundGraph)).getValidShortest(target, source, 15);
 								}
