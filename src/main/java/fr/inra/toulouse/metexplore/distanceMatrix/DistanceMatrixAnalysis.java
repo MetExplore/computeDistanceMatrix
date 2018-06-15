@@ -131,8 +131,6 @@ public class DistanceMatrixAnalysis {
             IllegalAccessException, IOException, XmlPullParserException {
 
         if(this.help){
-            MavenXpp3Reader reader = new MavenXpp3Reader();
-            Model model = reader.read(new FileReader("pom.xml"));
             System.out.println( "                           `-:+syhdmNNNNNNNNmdhys+:-`                           ");
             System.out.println( "                      `-+ydNNmhso+/:-......--:/osydNNdy+-`                      ");
             System.out.println( "                   -ohNNds/-`                       ./ohmNho-                   ");
@@ -161,11 +159,10 @@ public class DistanceMatrixAnalysis {
             System.out.println( " +NN.     oNNNNNNN+        sNNNNy-        `/dNN       oNNNNNNNNo            hN+ ");
 
             System.out.println("---------------------------------------------------------------------------------------");
-            System.out.println(model.getArtifactId());
+            System.out.println("FingerprintSubnetwork");
             System.out.println("---------------------------------------------------------------------------------------");
-            System.out.println("Version "+model.getVersion());
-            System.out.println("From "+model.getGroupId());
-            System.out.println("This part of "+model.getArtifactId()+" allows to compute distances between each pair fingerprint metabolites.");
+
+            System.out.println("This part of FingerprintSubnetwork allows to compute distances between each pair fingerprint metabolites.");
 
             System.out.println();
 
