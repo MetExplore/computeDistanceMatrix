@@ -64,7 +64,7 @@
 
                    <archive>
               <manifest>
-                <mainClass>fr.inra.toulouse.metexplore.ExtractSwitchingReactions</mainClass>
+                <mainClass>fr.inra.toulouse.metexplore.distanceMatrix.DistanceMatrixAnalysis</mainClass>
               </manifest>
             </archive>
               </configuration>
